@@ -1,0 +1,2 @@
+# Weather
+This implements a weather forecasting application that retrieves current weather and hourly forecasts using the OpenWeather API.
